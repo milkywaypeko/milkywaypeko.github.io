@@ -4,7 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-안녕하십니까? 최형종입니다.
+## 최형종의 Git에 오신 것을 환영합니다.
+
+## 나의 저장소
+
+|Repo|설명|
+|----|----|
+|[milkywaypeko/ASD_FI_Correlation](https://github.com/milkywaypeko/ASD_FI_Correlation)|이 저장소는 신경다양인의 자폐성 장애인 등록과 거주 지역의 재정자립도와의 관계에 관한 연구입니다.|
 
 ## 학력
 

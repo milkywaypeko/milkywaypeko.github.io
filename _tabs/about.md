@@ -19,5 +19,5 @@ order: 4
 |SNS     |Link|
 |--------|----|
 |email   |milkywaypeko@protonmail.com|
-|Github  |[https://github.com/milkywaypeko/]|
-|facebook|[https://www.facebook.com/profile.php?id=100083623173237]|
+|Github  | [https://github.com/milkywaypeko/](https://github.com/milkywaypeko/) |
+|facebook| [https://www.facebook.com/profile.php?id=100083623173237](https://www.facebook.com/profile.php?id=100083623173237) |

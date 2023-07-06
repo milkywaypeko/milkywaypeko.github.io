@@ -89,7 +89,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: milkywaypeko/milkywaypeko.github.io
-    issue_term: comments
+    issue_term: "pathname"
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>

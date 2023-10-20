@@ -32,11 +32,11 @@ copyright:
   license:
     template: Copyright
     name: Copyright
-    link: Copyright
+    link: 
 
   # Displayed in the footer
   brief: Copyright
-  verbose: >- Copyright
+  verbose: >- 
     
 
 meta: Powered by :PLATFORM with :THEME theme

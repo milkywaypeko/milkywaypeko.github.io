@@ -30,7 +30,7 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Copyright
+    template: © 2023 Choi Hyeongjong. Copyright
     name: Copyright
     link: 
 

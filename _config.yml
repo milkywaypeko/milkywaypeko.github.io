@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/milkywaypeko/milkywaypeko.github.io/blob/main/commons/avata.png?raw=true"
+avatar: "/commons/avata.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

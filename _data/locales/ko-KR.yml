@@ -30,12 +30,12 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 
-    name: 
-    link: 
+    template: Copyright
+    name: Copyright
+    link: Copyright
 
   # Displayed in the footer
-  brief: copyright
+  brief: Copyright
   verbose: >-
     
 

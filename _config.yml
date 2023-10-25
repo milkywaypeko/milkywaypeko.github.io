@@ -20,8 +20,9 @@ timezone:
 
 title: Choi Hyeongjong Git # the main title
 
+# it will display as the sub-title
 tagline: >-
-  You know what? The real magic of dreams coming true happens when you start believing in yourself.  # it will display as the sub-title
+  You know what? The real magic of dreams coming true happens when you start believing in yourself.  
   그거 알아? 꿈이 이뤄지는 진짜 마법은 스스로를 믿기 시작하면서부터 일어난대.
   
 description: >- # used by seo meta and the atom feed

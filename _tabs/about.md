@@ -6,28 +6,6 @@ order: 4
 
 ## English
 
-### Welcome to Choi Hyeongjong's Git.
-
-### My repositories
-
-|Repo|설명|
-|----|----|
-|[milkywaypeko/ASD_FI_Correlation](https://github.com/milkywaypeko/ASD_FI_Correlation)|A Study on the Correlation between ASD Registration of Neurodivergent and Financial Independence.|
-
-### Education
-
-|University                                         |Degree  |Period |
-|---------------------------------------------------|--------|-------|
-|Seoul National University of Science and Technology|Bachelor|2018 ~ |
-
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-## English
-
 ---
 
 ### Welcome to Choi Hyeongjong's Git.

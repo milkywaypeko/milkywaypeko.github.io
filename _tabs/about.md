@@ -19,6 +19,7 @@ order: 4
 - Name : [milkywaypeko/ASD_FI_Correlation](
 - Link : [https://github.com/milkywaypeko/ASD_FI_Correlation](https://github.com/milkywaypeko/ASD_FI_Correlation)
 - Describe : A Study on the Correlation between ASD Registration of Neurodivergent and Financial Independence.
+- 12Y ver. : [https://milkywaypeko.github.io/ASD_FI_Correlation_12Y](https://milkywaypeko.github.io/ASD_FI_Correlation_12Y)
 
 ---
 
@@ -36,7 +37,7 @@ order: 4
 ### Contacts
 
  - Email(Univ.) : [milkywaypeko@seoultech.ac.kr](mailto:milkywaypeko@seoultech.ac.kr)
- - Email : [milkywaypeko@protonmail.com](mailto:milkywaypeko@protonmail.com)
+ - Email : [milkywaypeko@outlook.com](mailto:milkywaypeko@outlook.com)
  - Github : [https://github.com/milkywaypeko](https://github.com/milkywaypeko)
  - Facebook : [https://www.facebook.com/profile.php?id=100083623173237](https://www.facebook.com/profile.php?id=100083623173237)
 
@@ -57,6 +58,7 @@ order: 4
  - 이름 : milkywaypeko/ASD_FI_Correlation
  - 링크 : [https://github.com/milkywaypeko/ASD_FI_Correlation](https://github.com/milkywaypeko/ASD_FI_Correlation)
  - 설명 : 이 저장소는 신경다양인의 자폐성 장애인 등록과 거주 지역의 재정자립도와의 관계에 관한 연구입니다.
+- 12Y ver. : [https://milkywaypeko.github.io/ASD_FI_Correlation_12Y](https://milkywaypeko.github.io/ASD_FI_Correlation_12Y)
 
 ---
 
@@ -72,6 +74,6 @@ order: 4
 ### 연락처
 
  - 이메일(대학교) : [milkywaypeko@seoultech.ac.kr](mailto:milkywaypeko@seoultech.ac.kr)
- - 이메일 : [milkywaypeko@protonmail.com](mailto:milkywaypeko@protonmail.com)
+ - 이메일 : [milkywaypeko@outlook.com](mailto:milkywaypeko@outlook.com)
  - 깃허브 : [https://github.com/milkywaypeko](https://github.com/milkywaypeko)
  - 페이스북 : [https://www.facebook.com/profile.php?id=100083623173237](https://www.facebook.com/profile.php?id=100083623173237)

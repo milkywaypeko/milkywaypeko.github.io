@@ -37,7 +37,7 @@ order: 4
 ### Contacts
 
  - Email(Univ.) : [milkywaypeko@seoultech.ac.kr](mailto:milkywaypeko@seoultech.ac.kr)
- - Email : [milkywaypeko@outlook.com](mailto:milkywaypeko@outlook.com)
+ - Email : [milkywaypeko@naver.com](mailto:milkywaypeko@naver.com)
  - Github : [https://github.com/milkywaypeko](https://github.com/milkywaypeko)
  - Facebook : [https://www.facebook.com/profile.php?id=100083623173237](https://www.facebook.com/profile.php?id=100083623173237)
 
@@ -74,6 +74,6 @@ order: 4
 ### 연락처
 
  - 이메일(대학교) : [milkywaypeko@seoultech.ac.kr](mailto:milkywaypeko@seoultech.ac.kr)
- - 이메일 : [milkywaypeko@outlook.com](mailto:milkywaypeko@outlook.com)
+ - 이메일 : [milkywaypeko@naver.com](mailto:milkywaypeko@naver.com)
  - 깃허브 : [https://github.com/milkywaypeko](https://github.com/milkywaypeko)
  - 페이스북 : [https://www.facebook.com/profile.php?id=100083623173237](https://www.facebook.com/profile.php?id=100083623173237)

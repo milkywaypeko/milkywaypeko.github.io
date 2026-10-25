@@ -19,7 +19,7 @@ order: 4
 - Name : [milkywaypeko/ASD_FI_Correlation](
 - Link : [https://github.com/milkywaypeko/ASD_FI_Correlation](https://github.com/milkywaypeko/ASD_FI_Correlation)
 - Describe : A Study on the Correlation between ASD Registration of Neurodivergent and Financial Independence.
-- 12Y ver. : [https://milkywaypeko.github.io/ASD_FI_Correlation_12Y](https://milkywaypeko.github.io/ASD_FI_Correlation_12Y)
+- 9Y ver. : [https://milkywaypeko.github.io/ASD_FI_Correlation_9Y](https://milkywaypeko.github.io/ASD_FI_Correlation_9Y)
 
 ---
 

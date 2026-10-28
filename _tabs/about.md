@@ -58,7 +58,7 @@ order: 4
  - 이름 : milkywaypeko/ASD_FI_Correlation
  - 링크 : [https://github.com/milkywaypeko/ASD_FI_Correlation](https://github.com/milkywaypeko/ASD_FI_Correlation)
  - 설명 : 이 저장소는 신경다양인의 자폐성 장애인 등록과 거주 지역의 재정자립도와의 관계에 관한 연구입니다.
-- 12Y ver. : [https://milkywaypeko.github.io/ASD_FI_Correlation_12Y](https://milkywaypeko.github.io/ASD_FI_Correlation_12Y)
+- 9Y ver. : [https://milkywaypeko.github.io/ASD_FI_Correlation_9Y](https://milkywaypeko.github.io/ASD_FI_Correlation_9Y)
 
 ---
 
